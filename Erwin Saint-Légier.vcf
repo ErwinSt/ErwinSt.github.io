@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.12.5//EN
+N:Saint-Légier;Erwin;;;
+FN:Erwin Saint-Légier
+EMAIL;type=INTERNET;type=WORK;type=pref:Erwin@Mempyre.com
+TEL;type=WORK;type=VOICE;type=pref:+33 630585587
+IMPP;X-SERVICE-TYPE=Skype;type=WORK;type=pref:skype:ErwinMaginel
+UID:130e5e70-f402-4f15-84b9-92786ab70767
+X-ABUID:130E5E70-F402-4F15-84B9-92786AB70767:ABPerson
+END:VCARD
